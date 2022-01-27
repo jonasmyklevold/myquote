@@ -6,14 +6,14 @@ import (
 )
 
 func main() {
-	test()
-	test1()
+	funksjon()
+	funksjon2()
 }
 
-func test() {
+func funksjon() {
 	fmt.Print(ting.TingQuote())
 }
 
-func test1() {
+func funksjon2() {
 	fmt.Print(ting.Ting2Quote())
 }
