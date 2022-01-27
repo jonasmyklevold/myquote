@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	ting "github.com/jonasmyklevold/myquote/import"
+	"github.com/jonasmyklevold/myquote/import"
 )
 
 func main() {
